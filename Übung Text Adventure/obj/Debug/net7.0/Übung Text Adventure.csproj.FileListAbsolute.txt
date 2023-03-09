@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Text Adventure\bin\Debug\net7.0\Übung Text Adventure.exe
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Text Adventure\bin\Debug\net7.0\Übung Text Adventure.deps.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Text Adventure\bin\Debug\net7.0\Übung Text Adventure.runtimeconfig.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Text Adventure\bin\Debug\net7.0\Übung Text Adventure.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Text Adventure\bin\Debug\net7.0\Übung Text Adventure.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Text Adventure\obj\Debug\net7.0\Übung Text Adventure.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Text Adventure\obj\Debug\net7.0\Übung Text Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Text Adventure\obj\Debug\net7.0\Übung Text Adventure.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Text Adventure\obj\Debug\net7.0\Übung Text Adventure.AssemblyInfo.cs
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Text Adventure\obj\Debug\net7.0\Übung Text Adventure.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Text Adventure\obj\Debug\net7.0\Übung Text Adventure.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Text Adventure\obj\Debug\net7.0\refint\Übung Text Adventure.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Text Adventure\obj\Debug\net7.0\Übung Text Adventure.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Text Adventure\obj\Debug\net7.0\Übung Text Adventure.genruntimeconfig.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Text Adventure\obj\Debug\net7.0\ref\Übung Text Adventure.dll
